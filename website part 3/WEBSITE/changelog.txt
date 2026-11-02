@@ -1,0 +1,39 @@
+# Changelog – Khula Community Bakery
+
+All updates and improvements made to the website are recorded below.
+
+
+ Added
+- Added a Google Maps location map to the Contact page.
+- Added a Lightbox feature to the Products page.
+- Added clickable product images.
+- Added enlarged product image viewing in a popup.
+- Added a close button to the Lightbox.
+- Added functionality to close the Lightbox by clicking outside the image.
+- Added Escape key functionality to close the Lightbox.
+-seo was added to all of my web pages.
+
+ Improved
+- Improved product image interaction.
+- Improved the customer experience when browsing products.
+- Made it easier for customers to view the bakery location.
+
+
+ Added
+- Created the Khula Community Bakery website.
+- Created Home, About Us, Products, Enquiry and Contact pages.
+- Added website navigation menu.
+- Added bakery logo and branding.
+- Added enquiry form.
+- Added website footer.
+- Added CSS styling and JavaScript functionality.
+
+## References and Acknowledgements
+
+The following resources and development assistance were used during the website development:
+
+1. W3Schools – HTML, CSS and JavaScript learning resources. https://www.w3schools.com/
+2. MDN Web Docs – HTML, CSS and JavaScript documentation. https://developer.mozilla.org/
+3. Google Maps – Map integration and location display. https://www.google.com/maps
+4. OpenAI ChatGPT – Assistance with HTML structure, CSS styling, JavaScript functionality, Google Maps integration, Lightbox implementation and project documentation.
+5.W3Schools –seo https://www.w3schools.com/tags/tag_meta.asp
