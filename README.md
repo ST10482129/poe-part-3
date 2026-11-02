@@ -162,8 +162,4 @@ The following resources were used as learning and development references:
 - Google Maps – https://www.google.com/maps
 - OpenAI ChatGPT – https://chatgpt.com/
 
-## 12. Acknowledgements
 
-OpenAI ChatGPT was used as a development support tool for guidance, troubleshooting, code explanations and documentation assistance.
-
-The website was developed as part of a Web Development academic project.
